@@ -1,0 +1,6 @@
+start 192.168.42.2
+end 192.168.42.10
+interface eth0
+option subnet 255.255.255.0
+opt router 192.168.42.1
+opt dns 192.168.42.1

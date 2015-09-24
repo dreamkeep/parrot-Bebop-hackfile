@@ -1,0 +1,12 @@
+ro.build.date=Wed Jul  1 16:01:34 CEST 2015
+ro.build.date.utc=1435759294
+ro.build.alchemy.product=ardrone3
+ro.build.alchemy.variant=dragon-2.0.29
+ro.build.hostname=fr-pm-intc11-prd
+ro.parrot.build.group=drones
+ro.parrot.build.project=mykonos3
+ro.parrot.build.product=ardrone3
+ro.parrot.build.variant=dragon-2.0.29
+ro.parrot.build.region=
+ro.parrot.build.uid=ardrone3-dragon-2.0.29
+ro.parrot.build.version=2.0.29
